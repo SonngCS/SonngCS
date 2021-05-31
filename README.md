@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Vitor
+- 👋 Hi, I’m Vitor. I'm a Computer Science student.
 - 👀 I’m interested in computers and programming. Just started my first semester in Computer Science.
 - 🌱 I’m currently learning C. 
