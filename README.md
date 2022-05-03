@@ -4,3 +4,4 @@ I don't know what to type in here, college is basically consuming my life. I stu
 
 
 - URI Online Judge profile: https://www.beecrowd.com.br/judge/en/profile/528954
+- E-mail: vitor.c.prieto@unisantos.br
