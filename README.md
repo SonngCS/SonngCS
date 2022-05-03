@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Vitor. I'm a Computer Science student.
 
-I don't know what to type in here, college is basically consuming my life. I study some things here and there, some research projects involving data science, AI and stuff like that. I probably won't frequently update this page until I graduate or get the will to clean and upload some codes I did.
+I'm currently studying C and python on college and learning C++ and opengl in my free time. Although I'm on my third semester in Computer Science, I'm very interested in Assembly, reverse engineering and cryptography.
+In addition to projects I'm making for subjects on my graduation course, here on github I have some programs related to sorting algorithms and related stuff.
+
+I'm also working on some projects related to Artificial intelligence and Data Science in python and jupyter notebooks.
 
 
 - URI Online Judge profile: https://www.beecrowd.com.br/judge/en/profile/528954
