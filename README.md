@@ -7,4 +7,4 @@ I'm also working on some projects related to Artificial intelligence and Data Sc
 
 
 - URI Online Judge profile: https://www.beecrowd.com.br/judge/en/profile/528954
-- E-mail: vitor.c.prieto@unisantos.br
+- E-mail: vitorcordeiro151@gmail.com ; vitor.c.prieto@unisantos.br
