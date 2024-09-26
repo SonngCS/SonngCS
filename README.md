@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vitor, 20 years old and a Computer Science student.
+- 👋 Hi, I’m Vitor, a 22 years old Computer Science student from Brazil.
 
-I'm currently studying C, python and Java at college and learning A.I. and data science with my free time. Although I'm on my fourth semester in Computer Science, I'm very interested in Assembly, reverse engineering, cryptography and topics related to A.I. and computer vision.
+I'm currently studying C, C++, C# and python at college and learning game development with my free time. I'm on my last semester in Computer Science and I'm very interested in reverse engineering, cryptography and topics related to development.
 
 In addition to projects I'm making for subjects on my graduation course, here on github I will upload interesting projects that I have finished.
 
-- E-mail: vitorcordeiro151@gmail.com ; vitor.c.prieto@unisantos.br
+- E-mail: vitorcordeiro151@gmail.com
